@@ -2,7 +2,7 @@ name := "akka-http-client-examples"
 
 version := "0.1"
 
-scalaVersion := "2.12.13"
+scalaVersion := "2.12.17"
 
 
 libraryDependencies ++= Seq(
